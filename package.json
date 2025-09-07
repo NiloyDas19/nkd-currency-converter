@@ -1,6 +1,6 @@
 {
   "name": "nkd-currency-converter",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A simple JavaScript package to convert currencies using FreeCurrencyAPI with user-provided API key.",
   "main": "index.js",
   "type": "module",
