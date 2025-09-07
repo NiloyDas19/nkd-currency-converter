@@ -1,5 +1,4 @@
-````markdown
-# nkd-currency-converter Package
+# nkd-currency-converter
 
 A simple JavaScript/Node.js package to convert currencies using the FreeCurrencyAPI. Users provide their own API key, keeping your key private and secure.
 
@@ -14,7 +13,7 @@ A simple JavaScript/Node.js package to convert currencies using the FreeCurrency
 
 ```bash
 npm install nkd-currency-converter
-````
+
 
 ## Usage
 
@@ -50,7 +49,3 @@ console.log(`Converted amount: ${result}`);
 
 * Users **must call `initializeCurrencyConverter()`** first before using `convertAmount()`.
 * The package **does not store your API key**, so you remain secure.
-
-```
-```
-
