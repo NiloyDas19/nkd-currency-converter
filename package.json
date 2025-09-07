@@ -1,7 +1,7 @@
 {
   "name": "nkd-currency-converter",
   "version": "1.0.0",
-  "description": "An npm package to convert currency",
+  "description": "A simple JavaScript package to convert currencies using FreeCurrencyAPI with user-provided API key.",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -12,7 +12,12 @@
     "url": "git+https://github.com/NiloyDas19/nkd-currency-converter.git"
   },
   "keywords": [
-    "currency-converter"
+    "currency",
+    "converter",
+    "exchange-rate",
+    "freecurrencyapi",
+    "nodejs",
+    "javascript"
   ],
   "author": "Niloy Das",
   "license": "Apache-2.0",
