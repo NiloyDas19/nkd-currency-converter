@@ -13,7 +13,7 @@ A simple JavaScript/Node.js package to convert currencies using the FreeCurrency
 
 ```bash
 npm install nkd-currency-converter
-
+```
 
 ## Usage
 
